@@ -1,0 +1,6 @@
+{
+  "name": "SG BusLive - Singapore Bus Arrival & Real-Time Tracker",
+  "description": "Real-time Singapore bus arrival timings, live bus locations on map, crowding levels, deck types, and commuter journey alerts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
